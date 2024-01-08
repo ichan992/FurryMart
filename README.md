@@ -1,2 +1,2 @@
 # FurryMart
- E-commerce App using React native 
+ E-commerce App using React native and TypeScript
